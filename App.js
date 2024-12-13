@@ -4,9 +4,10 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>This is first changed!</Text>
 
-      <Text>My name is: Hoang Dat Phan. this is first commit in new branch</Text>
+      <Text>Hello! My Name is Raj Trusharkumar Patel</Text>
+      <Text>And My name is Hoang Dat Phan</Text>
+
       <StatusBar style="auto" />
     </View>
   );
