@@ -8,6 +8,7 @@ export default function App() {
         Hello!
       </Text>
 
+
       <Text style={styles.Name}>
         Raj Trusharkumar Patel
       </Text>
@@ -39,5 +40,4 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     justifyContent: 'center'
   }
-
 });
