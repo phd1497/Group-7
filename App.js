@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
 
 
-      <Text style={styles.names}>And My name is Hoang Dat Phan</Text>
+      <Text style={styles.names}>And My name is Hoang Dat Phan.</Text>
 
       <StatusBar style="auto" />
     </View>
